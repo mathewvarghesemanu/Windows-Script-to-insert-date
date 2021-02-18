@@ -4,7 +4,7 @@
 
 2. Express install autohotkey
 
-##How this script is created
+## How this script is created
 *********************************************************
 3. Right click on desktop and select New>Autohotkey script
 
