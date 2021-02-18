@@ -4,6 +4,8 @@
 
 2. Express install autohotkey
 
+##How this script is created
+*********************************************************
 3. Right click on desktop and select New>Autohotkey script
 
 4. Rename it as insert_date.ahk
@@ -17,7 +19,7 @@
      SendInput, %CurrentDateTime%
 return
 ```
-
+*********************************************************
 6. Save the file and double click on it to open this script in autohotkey. It’ll run in the background.
 
 7. With the service running in the background, whenever you press Ctrl+Alt+D, the current date will be input in DD-MM-YY format
