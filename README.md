@@ -11,11 +11,11 @@
 5. Remove the text already in the file and type in the below code
 
 
-`^!d::
+```^!d::
      FormatTime, CurrentDateTime,, dd/MM/yyyy
      SendInput, %CurrentDateTime%
 Return
-`
+```
 
 6. Save the file and double click on it to open this script in autohotkey. It’ll run in the background.
 
